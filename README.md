@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 👋 About Me
+## About Me
 I’m a Data Scientist with a passion for exploring the vast and ever-evolving field of data science. With a strong foundation in machine learning, statistical modeling, and data visualization, I’m driven by the challenge of uncovering insights from data and transforming them into actionable strategies.
 
 I enjoy diving into different domains and industries, understanding their unique challenges, and finding data-driven solutions that can make a significant impact. My curiosity pushes me to continually expand my knowledge, staying up-to-date with the latest advancements in data science, and applying them to solve complex problems.
