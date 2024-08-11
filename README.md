@@ -31,4 +31,4 @@ I believe that data science is not just about algorithms and models—it's about
 > "Data is the new oil. It’s valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc., to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value." – Clive Humby
 
 ## 📫 Let's Connect
-I’m always open to networking with other professionals, collaborating on new projects, or simply discussing the latest trends in data science. Feel free to reach out via [LinkedIn](#) or [email](mailto:youremail@example.com).
+I’m always open to networking with other professionals, collaborating on new projects, or simply discussing the latest trends in data science. Feel free to reach out via LinkedIn or Email
