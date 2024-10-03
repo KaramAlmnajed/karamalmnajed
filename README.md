@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm **Karam Almnajed**, a dedicated **Data Scientist** passionate about transforming complex data into clear and actionable insights. My mission is to empower organizations through effective data analysis, predictive modeling, and compelling data visualization.
+Hi! I'm **Karam**, a dedicated **Data Scientist** passionate about transforming complex data into clear and actionable insights. My mission is to empower organizations through effective data analysis, predictive modeling, and compelling data visualization.
 
 ## Professional Focus
 
