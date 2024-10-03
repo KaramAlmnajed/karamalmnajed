@@ -16,4 +16,4 @@ Data science is about storytelling and driving change. I approach challenges wit
 > "Data is the new oil..." - Clive Humby
 
 ## 📬 Connect
-Open to networking, collaborations, and discussions on data science trends. Reach out via LinkedIn or Email.
+Open to networking, collaborations, and discussions. Reach out via LinkedIn or Email.
