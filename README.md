@@ -1,16 +1,56 @@
-## Hi there 👋
+# Karam Al Mnajed
 
-<!--
-**KaramAlmnajed/karamalmnajed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Systems • Analytics • Operational Infrastructure
 
-Here are some ideas to get you started:
+I build systems focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- analytics and reporting,
+- operational workflows,
+- automation pipelines,
+- structured data systems,
+- lightweight technical infrastructure.
+
+My background is in computer science, with interests spanning:
+
+- systems design,
+- machine learning,
+- operational analytics,
+- optimization,
+- databases,
+- distributed systems,
+- computational reasoning.
+
+---
+
+## Current Focus
+
+- Building structured operational and analytics systems
+- Designing workflows that improve clarity, reliability, and scalability
+- Studying machine learning foundations and computational systems
+- Bridging theory and implementation through practical technical infrastructure
+
+---
+
+## Technologies
+
+`Python` • `SQL` • `JavaScript` • `MySQL` • `Pandas` • `Scikit-learn` • `Git`
+
+---
+
+## Interests
+
+Systems Design • Machine Learning • Data Infrastructure • Distributed Systems • Automation • Optimization
+
+---
+
+## Contact
+
+- LinkedIn:  
+  linkedin.com/in/karam-al-mnajed
+
+- Email:  
+  iam.karamalmnajed@gmail.com
+
+- Portfolio
+
+  https://karamalmnajed.github.io/
